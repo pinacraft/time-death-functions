@@ -1,0 +1,29 @@
+{
+        "format_version": 2,
+        "header": {
+            "name": "Time & Death Counter Functions",
+            "description": "Allows oped players to toggle already working time and death counters |By PNAPE & Han Programmer|",
+            "uuid": "66557406-a8b0-48d6-9f17-01295ed5371f",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "min_engine_version": [
+                1,
+                13,
+                0
+            ]
+        },
+        "modules": [
+            {
+                "type": "data",
+                "uuid": "4980a5c1-d3a4-4cbc-9e40-f6a3de46f03e",
+                "version": [
+                    1,
+                    0,
+                    0
+                ]
+            }
+        ]
+}
